@@ -1,6 +1,6 @@
 # AI Assignment - Search-Based Problem Solving
 
-### Submission Deadline: 26/07/2025  
+
 **Student Name:** Sai Shiva Thatipalli  
 **Department:** CSE (3rd Year)  
 **Subject:** Artificial Intelligence  
